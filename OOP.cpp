@@ -32,5 +32,5 @@ int main()
     cout << "diameter adalah " << venus.diameter << endl;
 
     venus.displaydata();
-    
+    return 
 }
